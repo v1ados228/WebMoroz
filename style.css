@@ -1,0 +1,412 @@
+@font-face {
+    font-family: 'TRIAL Oceanic';
+    src: url(/fonts/trial-oceanic-cufonfonts/TRIAL_Oceanic-Medium-BF6487cfe5e2078.otf);
+    font-style: normal;
+}
+
+body {
+    background-color: #011845;
+}
+
+a {
+    text-decoration: none;
+    color: #E8EDFF;
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+    color: #E8EDFF;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+.Head a {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: left;
+
+}
+
+h1 {
+    width: 1197px;
+    height: 256px;
+    font-family: 'TRIAL Oceanic';
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #496192;
+    font-size: 256px;
+    line-height: 256px;
+}
+
+.Main h2 {
+    font-family: 'TRIAL Oceanic';
+    font-size: 80px;
+    font-weight: 500;
+    line-height: 80px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.Color {
+    width: 370px;
+    height: 75px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+}
+
+.Main li p {
+    width: 319px;
+    height: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+}
+
+.Restaurant h2 { 
+    font-family: 'TRIAL Oceanic';
+    font-size: 56px;
+    font-weight: 500;
+    line-height: 58.8px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.Restaurant p{
+    width: 488px;
+    height: 150px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+}
+
+.We {
+    width: 488px;
+    height: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+}
+
+.Menu h2{
+    font-family: 'TRIAL Oceanic';
+    font-size: 56px;
+    font-weight: 500;
+    line-height: 58.8px;
+    text-align: left;
+}
+
+.Menu h3 {
+    font-family: 'TRIAL Oceanic';
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 43.2px;
+    text-align: left;
+}
+
+.Menu p {
+    width: 386px;
+    height: 88px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;
+}
+
+.Delivery h2 {
+    font-family: 'TRIAL Oceanic';
+    font-size: 56px;
+    font-weight: 500;
+    line-height: 58.8px;
+    text-align: left;
+}
+
+p {
+    color: #E8EDFF;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    color: #E8EDFF;
+    font-family: 'TRIAL Oceanic';
+    text-transform: uppercase;
+}
+
+span {
+    color: #E8EDFF;
+}
+
+h3 {
+    color: #E8EDFF;
+    font-family: 'TRIAL Oceanic';
+    text-transform: uppercase;
+}
+
+.Delivery ol {
+    list-style-type: none;
+}
+
+.Main p {
+    width: 370px;
+    height: 75px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Main li p{
+    width: 250px;
+    height: 34px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-align: left;
+    color: #E8EDFF;
+}
+
+.Main li {
+    list-style-type: none;
+}
+
+span {
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16.8px;
+    text-align: left;
+}
+
+.Price {
+    text-transform: lowercase;
+    width: 105px;
+    height: 25px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 25.2px;
+    text-align: left;
+}
+
+.Weight {
+    text-transform: lowercase;
+    width: 26px;
+    height: 14px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.4px;
+    text-align: left;
+}
+
+
+.Delivery li h3 {
+    width: 320px;
+    height: 58px;
+    font-family: 'TRIAL Oceanic';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: left;
+}
+
+.Delivery ol span {
+    width: 39px;
+    height: 38px;
+    font-family: 'TRIAL Oceanic';
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 37.8px;
+    text-align: left;
+}
+
+.First {
+    width: 320px;
+    height: 75px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Second {
+    width: 320px;
+    height: 50px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Third {
+    width: 320px;
+    height: 125px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.One {
+    width: 320px;
+    height: 58px;
+    font-family: 'TRIAL Oceanic';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: left;
+}
+
+.Two {
+    width: 285px;
+    height: 29px;
+    font-family: 'TRIAL Oceanic';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: left;
+}
+
+.Three {
+    width: 320px;
+    height: 58px;
+    font-family: 'TRIAL Oceanic';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: left;
+}
+
+.Reviews li {
+    list-style-type: none;
+}
+
+.Reviews h2 {
+    font-family: 'TRIAL Oceanic';
+    font-size: 56px;
+    font-weight: 500;
+    line-height: 58.8px;
+    text-align: left;
+}
+
+.Reviews p {
+    width: 385px;
+    height: 66px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;
+}
+
+.Stocks h2 {
+    font-family: 'TRIAL Oceanic';
+    font-size: 56px;
+    font-weight: 500;
+    line-height: 58.8px;
+    text-align: left;
+}
+
+.Stocks h3 {
+    font-family: 'TRIAL Oceanic';
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 43.2px;
+    text-align: left;
+}
+
+.Stocks p {
+    width: 386px;
+    height: 88px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;
+}
+
+.Booking h2 {
+    font-family: 'TRIAL Oceanic';
+    font-size: 56px;
+    font-weight: 500;
+    line-height: 58.8px;
+    text-align: left;
+}
+
+.Booking div {
+    color: #E8EDFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+}
+
+.Contacts h2 {
+    font-family: 'TRIAL Oceanic';
+    font-size: 56px;
+    font-weight: 500;
+    line-height: 58.8px;
+    text-align: left;
+}
+
+.Contacts li {
+    list-style-type: none;
+}
+
+.Contacts h3 {
+    font-family: 'TRIAL Oceanic';
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 37.8px;
+    text-align: left;
+}
+
+.Foot span {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+}
+
+.Foot li {
+    list-style-type: none;
+}
+
+.Foot h3 {
+    font-family: 'TRIAL Oceanic';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: left;
+}
+
+.Foot p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+    text-align: left;
+}
